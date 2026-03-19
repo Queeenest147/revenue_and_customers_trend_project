@@ -284,7 +284,7 @@ The analysis showed that a small group of high-value customers drives a large sh
 
 Overall, this project delivers a practical Management Information System (MIS) that shifts the business from reactive reporting to more proactive, data-driven decision-making.
 
-## 13. Relevant Links & Table of Contents
+## 13. Table of Contents
 
 | Section Number | Navigation Link | Description |
 | :--- | :--- | :--- |
